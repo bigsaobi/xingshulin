@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 半透明色 -->
+    <color name="translucence">#7fffffff</color>
+    <color name="translucence2">#3f000000</color>
+    <color name="lightgray">#808080</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#009100</color>
+    <color name="blue">#3A97D4</color>
+    <color name="transparent">#00000000</color>
+    <color name="base_bg">#F0EFED</color>
+    <color name="black">#000000</color>
+    <color name="moneycolor">#ee0000</color>
+    <color name="test_bg_color">#C4E1E1</color>
+    <color name="base_lightbule">#4098d4</color>
+    <color name="garylight">#acaeb2</color>
+    <color name="orange">#FF8000</color>
+    <color name="text_gray">#5C5C5C</color>
+    <color name="blackgray">#847f7f</color>
+
+    <drawable name="garylist_divider">#acaeb2</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="gray">#eeeeee</drawable>
+    <drawable name="bg">#f0f0f0</drawable>
+    <drawable name="section_graybg">#e5e5e5</drawable>
+    <drawable name="whitebg">#ffffff</drawable>
+    <drawable name="homepagetitlebar_bg">#e60012</drawable>
+
+</resources>
